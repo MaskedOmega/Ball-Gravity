@@ -1,5 +1,3 @@
 # Ball-Gravity
 
-
-[![Watch the video](bounceBall.mp4)
-
+[![Watch the video](Ball.png)](bounceBall.mp4)
