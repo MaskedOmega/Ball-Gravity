@@ -1,5 +1,6 @@
 # Ball-Gravity
 
+implementation of physics gravity og object ball hitting a predified Y axis Val (400)
 
 ![Alt text](Ball.png)
 ![Alt text](BallMoving1.png)
