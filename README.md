@@ -1,3 +1,6 @@
 # Ball-Gravity
 
-[![Watch the video](Ball.png)](bounceBall.mp4)
+
+![Alt text](Ball.png)
+![Alt text](BallMoving1.png)
+![Alt text](BallMoving2.png)
